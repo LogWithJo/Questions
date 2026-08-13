@@ -15,5 +15,6 @@ export default defineConfig({
     port: 2011,
     strictPort: true,
     host: true
-  }
+  },
+  base: "/Questions/"
 })
